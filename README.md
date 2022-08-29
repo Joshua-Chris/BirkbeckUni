@@ -12,5 +12,7 @@ Website link:
 https://birkbeck-uni.vercel.app/
 
 Some screenshots:
-https://ibb.co/gMY9bxq
-https://ibb.co/wzM4h4X
+Vercel screenshot - https://ibb.co/gMY9bxq
+<img src="https://i.ibb.co/sv7RpZx/Screenshot-20220829-034927-Chrome.jpg" alt="Screenshot-20220829-034927-Chrome" border="0">
+Website screenshot - https://ibb.co/wzM4h4X
+<img src="https://i.ibb.co/712KtK5/Screenshot-20220829-034957-Chrome.jpg" alt="Screenshot-20220829-034957-Chrome" border="0">
